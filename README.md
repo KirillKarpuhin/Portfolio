@@ -182,6 +182,7 @@
 
 ![Prilavok](https://github.com/KirillKarpuhin/Portfolio/blob/main/ApiPrilavok.png)
 
+
 ## Стек и техники тестирования
 Благодаря проектам от @yandex.practicum: я знаю и применяю в тестировании:
 * mindmap, чтобы визуализировать требования;
@@ -232,27 +233,52 @@
 
 ![Prilavok](https://github.com/KirillKarpuhin/Portfolio/blob/main/Prilavok.png)
 
-## Примеры баг-репортов в YouTrack и YandexTracker
+## Примеры баг-репортов в YouTrack и YandexTracker дипломного проекта
 
 Заводить баг-репорты приходилось не только в таблице, но и на специальных сайтах, посвященных созданию репортов. Так были успешно созданы баг-репорты на популярных сервисах
-### YouTrack баг-репорты
-Сссылки на заведенные баг-репорты: ссылка
 
-Скриншоты работы: 
+Баг-репорты выгружались в эксель через YandexTracker
+Таблицу баг-репортов можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1fNesg7kklXfFwoZA_Hicil_2PBeKgQeBADc54fGSbkI/edit?usp=sharing)
+
+Скриншот репортов в таблице: 
+
+![Bug-dip](https://github.com/KirillKarpuhin/Portfolio/blob/main/Bug.png)
+
+### YouTrack баг-репорты
+Так как YouTrack ограничил доступ пользователям из РФ, то в пример будут репорты по другому проекту.
+Пример заведенных баг-репортов по проекту: [ссылка](https://kreal.youtrack.cloud/projects/0-3)
+
+Пример заведенного репорта в YouTrack:
+![Tracker](https://github.com/KirillKarpuhin/Portfolio/blob/main/Tracker.png)
 
 ### Yandex.Tracket баг-репорты
-Сссылки на заведенные баг-репорты: ссылка
+Сссылки на заведенные баг-репорты по проекту: [ссылка](https://tracker.yandex.ru/pages/projects/1/issues)
 
-Скриншоты работы: 
+Скриншот заведенных баг-репортов в YandexTracker: 
+
+![YTracker](https://github.com/KirillKarpuhin/Portfolio/blob/main/YTracker.png)
 
 ## Примеры работы в прогрммах Postman, Charles, Cygwin64
 В течение курса приходилось оставивать новые программы. 
 
-Так были работы в **Postman** для работы с API структурой. Предлагаю ознакомиться с скриншотами работы в программе:  
+Так были работы в **Postman** для работы с API структурой. Пример работы в программе: [создание заказа](https://drive.google.com/file/d/14vEPWVULDAAOcj6OEJTWDmCH64CboVlR/view?usp=sharing)
 
-**Charles** для перехвата ответов и отправки брэйкпоинтов. Предлагаю ознакомиться с скриншотами работы в программе: 
+Скриншот работы в программе: 
 
-**Cygwin64** для изменения базы данных на сервере. Предлагаю ознакомиться с скриншотами работы в программе: 
+![Post](https://github.com/KirillKarpuhin/Portfolio/blob/main/post.png)
+
+
+**Charles** для перехвата ответов и отправки брэйкпоинтов. Пример работы в программе: [создание Breakpoint](https://drive.google.com/file/d/18aOzdyglXRtYZiLm8NIbTiDx1RGzUCMp/view?usp=sharing) для изменения ответа от сервера.
+
+Скриншот работы в программе: 
+
+![Charles](https://github.com/KirillKarpuhin/Portfolio/blob/main/charle.png)
+
+**Cygwin64** для изменения базы данных на сервере. Предлагаю ознакомиться с видео работы в программе: проверить БД [курьеров](https://drive.google.com/file/d/1yONWKCUE1l8JfHQBd4L0h2Tm4V7WEr-0/view?usp=sharing)
+
+Скриншот работы в программе:
+
+![Cygwin](https://github.com/KirillKarpuhin/Portfolio/blob/main/psql.png)
 
 Так же работы в других приложениях, по типу **Figma, Tracker.**
 
