@@ -8,8 +8,9 @@
 * SQL работа с данными
 * Итоговое дипломное тестирование веб и мобильного приложения Яндекс.Самокаты
 * Примеры работы в баг-трекерах: YouTrack и YandexTracker
-* Примеры работы в программах Postman, Charles, Cygwin64
+* Примеры работы в программах Postman, Charles, Cygwin64, Visual Studio Code
 * Полные решения практических заданий и тестирования: Яндекс. Маршрутов, Яндекс.Самокатов, Яндекс.
+* Знание Frontend разработки: HTML, JS
 * Заключение
 ## Функциональное тестирование веб-сервиса Яндекс Маршруты (ссылка на [требования](https://docs.google.com/document/d/1tn1-zvah2dlM2bULqsLrLgFfkcA7UZaOVlcS1G9YWl0/edit?usp=sharing))
 Я хотел бы вам продемонстировать навыки и знания, которые важны для работы quality engineer. Поделиться своими ключевыми навыками и проектами, которые демонстрируют мой подход к тестированию, после прохождения курсов @yandex.practicum. 
@@ -292,6 +293,19 @@
 * Дипломная работа: Тестирование Веб-приложения Яндекс.Самокат: [ссылка](https://docs.google.com/spreadsheets/d/1TbQyNiY5zwxxKq4glMCwLqNFMORoxhmEWcVtOM-xMg0/edit?gid=943703744#gid=943703744)
 * Дипломная работа: Тестирование Мобильного приложения Яндекс.Самокат: [ссылка](https://docs.google.com/spreadsheets/d/1TbQyNiY5zwxxKq4glMCwLqNFMORoxhmEWcVtOM-xMg0/edit?gid=424948590#gid=424948590)
 * Дипломная работа: Тестирование API Яндекс.Самокат: [ссылка](https://docs.google.com/spreadsheets/d/1TbQyNiY5zwxxKq4glMCwLqNFMORoxhmEWcVtOM-xMg0/edit?gid=336872680#gid=336872680)
+
+## Знание Frontend разработки: HTML, JS, CSS
+Еще до прохождения курсов тестирования, мною были освоено также в Яндексе frontend разработка. А именно имею познания в HTML структуре и разметке,адаптивной верстке, знания в строении и постройки кода на JavaScript. Ниже приведу вам пример сайта, который был сделан на базе моих знаний в приложении Visual Studio Code. 
+
+* По этой ссылке можете ознакомиться с [css файлом](https://github.com/KirillKarpuhin/Portfolio/blob/main/style.css)
+
+* По этой ссылке можете ознакомиться с [html файлом](https://github.com/KirillKarpuhin/Portfolio/blob/main/index.html)
+
+* Посмототреть видео по работе в приложении и запуску сервера с сайтом можете по [ссылке](https://drive.google.com/file/d/1h-ypRppjwpcA14OBDpPXOlAZTrECvppy/view?usp=sharing)
+
+Скриншоты работы в программе: 
+
+![VSC](https://github.com/KirillKarpuhin/Portfolio/blob/main/VSC.png)
 
 ## Заключение 
 
